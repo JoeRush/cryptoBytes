@@ -1,0 +1,27 @@
+Security Strength: 128
+Length of data: 32
+Requested output length: 512
+Z: 247
+Elliptic Point X:
+Elliptic Point Y:
+N: dog cat bear
+S: johndog@gmail.com
+Password: 00 01 02
+T: F6 49 BF 65 
+D6 17 EF 8F
+01 EE 6A 2F
+E1 80 D1 E7
+3B 48 94 E4
+20 12 3A 52
+6E 88 28 9F
+08 D3 8B 15
+D6 30 A7 01
+47 53 59 55
+5E B6 62 94
+E2 A7 55 6B
+D1 CB 06 84
+D3 0F E1 02
+46 53 25 17
+FE 25 A5 89
+Data: B6 22 88 50 
+11 73 5B C4

@@ -1,0 +1,11 @@
+Length of data: 32
+Requested output length: 512
+Z:
+Elliptic Point X:
+Elliptic Point Y:
+S: johndog@gmail.com
+Password: 00 01 02
+T: 5A 3B DF FF
+A4 35 0F 32
+Data: 00 01 02 03
+00 AB 45 F3
